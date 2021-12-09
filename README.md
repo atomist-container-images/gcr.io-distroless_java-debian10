@@ -1,0 +1,1 @@
+# gcr.io-distroless_java-debian10
