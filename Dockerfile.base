@@ -1,0 +1,2 @@
+# Tags: base
+FROM gcr.io/distroless/java-debian10:base

@@ -1,0 +1,2 @@
+# Tags: base-nonroot
+FROM gcr.io/distroless/java-debian10:base-nonroot
